@@ -1,1 +1,1 @@
-# DBMS_2023
+# Database Manage Systems 2023 Fall
